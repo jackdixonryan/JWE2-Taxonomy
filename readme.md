@@ -7,41 +7,6 @@ flowchart LR;
 MorosIntrepidus["Moros Intrepidus"]
 trex["Tyrannosaurus Rex"]
 
-Allosaurids["ALLOSAURIDS
-* Allosaurus
- "]
- 
- Metriacanthosaurids["METRIACANTHOSAURIDS
- * Metriacanthosaurus
- "]
- 
- Ceratosaurids["CERATOSAURIDS
- * Ceratosaurus
- "]
- 
- Megalosaurids["MEGALOSAURIDS
- * Megalosaurus
- "]
- 
- Coelophysids["CEOLOPHYSIDS
- * Coelophysis
- "]
-
-
-spinosaurs("`
-- Baryonyx
-- Suchomimus
-- Spinosaurus
-`")
-
-stegosaurs("`
-- Huayangosaurus 
-- Gigantspinosaurus
-- Chungkingosaurus
-- Stegosaurus 
-- Kentrosaurus
-- Wuerhosaurus
-`")
 
 Chordata-->Synapsida
 Chordata-->Dinosauria
@@ -101,7 +66,16 @@ Hadrosauriformes-->Ouranosaurus
 
 Iguanodontidae-->Iguanodon
 
-Stegosauria-->stegosaurs
+Stegosauria-->Stegosauridae
+Stegosauria-->Huayangosauridae
+
+Huayangosauridae-->Huayangosaurus
+
+Stegosauridae-->Gigantspinosaurus
+Stegosauridae-->Chungkingosaurus
+Stegosauridae-->Stegosaurus
+Stegosauridae-->Kentrosaurus
+Stegosauridae-->Wuerhosaurus
 
 Ankylosauria-->Nodosauridae
 Ankylosauria-->Ankylosauridae
