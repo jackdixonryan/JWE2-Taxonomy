@@ -11,7 +11,7 @@ What follows is a rough taxonomy that holds all the species present in JWE2.
 - Something is happening with Sauropod classification. I wish I could describe the issue, but I cannot. 
 
 # Coolest Stuff in Here
-- You might assume Liopleurodon is a type of Mosasaur - amazingly, it is more closely related to the long-necked Plesiosaurs than the lizard-like mosasaurs. 
+- You might assume Liopleurodon and Kronosaurus were types of Mosasaur - amazingly, they are more closely related to the long-necked Plesiosaurs than the lizard-like mosasaurs. This morphological similarity is particularly interesting because the Pliosaur Liopleurodon and Kronosaurus were Jurassic hunters, while the Mosasaurs wouldn't evolve until the Cretaceous. It's possible that this is a decent example of convergent evolution.
 - Ornithomimids are not Ornithopods, but Theropods.
 - Australovenator is not a Dromeosaur, like the other predatory raptors. 
 
