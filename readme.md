@@ -5,6 +5,7 @@ graph TD;
 
 Chordata-->Synapsida
 Chordata-->Dinosauria
+Chordata-->Reptilia
 
 Synapsida-->Sphenacodontidae
 Synapsida-->Therapsida
@@ -26,5 +27,9 @@ Herrerasauridae-->Herrerrasaurus
 
 Theropoda-->Coelophysidae
 Coelophysidae-->Coelophysis
+
+Reptilia-->Ichthyosauria
+Ichthyosauria-->Ichthyosauridae 
+Ichthyosauridae-->Ichthyosaurus
 ```
 
