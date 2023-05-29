@@ -34,6 +34,7 @@ Theropoda-->Coelophysis
 Theropoda-->Tetanurae
 Theropoda-->Proceratosaurus
 Theropoda-->Metriacanthosaurus
+Theropoda-->Allosaurus
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
