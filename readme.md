@@ -24,6 +24,7 @@ plainTheropods("`
   - Ceratosaurus
   - Megalosaurus
   - Coelophysis
+  - Moros Intrepidus
 `")
 
 Chordata-->Synapsida
@@ -77,9 +78,17 @@ Theropoda-->Tetanurae
 Theropoda-->Spinosauridae
 Theropoda-->Dromaeosauridae
 Theropoda-->Carcharodontosaurdae
+Theropoda-->Ornithomimidae
+Theropoda-->Megaraptora
+
+Megaraptora-->Megaraptoridae
+Megaraptoridae-->Australovenator
+
+Ornithomimidae-->Archaeornithomimus
 
 Carcharodontosauridae-->Acrocanthosaurus
 Carcharodontosauridae-->Giganotosaurus
+Carcharodontosauridae-->Carcharodontosaurus
 
 Dromaeosauridae-->Deinonychus
 
