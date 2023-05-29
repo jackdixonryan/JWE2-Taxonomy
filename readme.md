@@ -45,6 +45,12 @@ Saurischia-->Sauropodomorpha
 Ornithischia-->Thyreophora
 Ornithischia-->Ornithopoda
 Ornithischia-->Ceratopsia
+Ornithischia-->Pachycephalosauridae
+
+Pachycephalosauridae-->Homalocephale
+Pachycephalosauridae-->Pachycephalosaurus
+Pachycephalosauridae-->Dracorex
+Pachycephalosauridae-->Stygimoloch
 
 Ceratopsia-->Ceratopsidae
 
@@ -69,6 +75,7 @@ Hadrosauridae-->Corythosaurus
 Hadrosauridae-->Parasaurolophus
 Hadrosauridae-->Maiasaura
 Hadrosauridae-->Edmontosaurus
+Hadrosauridae-->Olorotitan
 
 Styracosterna-->Hadrosauriformes
 
@@ -102,6 +109,15 @@ Theropoda-->Megaraptora
 Theropoda-->Troodontidae
 Theropoda-->Oviraptoridae
 Theropoda-->Deinocheiridae
+Theropoda-->Abelisauridae
+Theropoda-->Tyrannosauridae
+Theropoda-->Therizinosauridae
+
+Tyrannosauridae-->Albertosaurus
+
+Therizinosauridae-->Therizinosaurus
+
+Abelisauridae-->Carnotaurus
 
 Deinocheiridae-->Deinocheirus
 
@@ -114,6 +130,7 @@ Megaraptoridae-->Australovenator
 
 Ornithomimidae-->Archaeornithomimus
 Ornithomimidae-->Struthiomimus
+Ornithomimidae-->Gallimimus
 
 Carcharodontosauridae-->Acrocanthosaurus
 Carcharodontosauridae-->Giganotosaurus
@@ -121,6 +138,7 @@ Carcharodontosauridae-->Carcharodontosaurus
 
 Dromaeosauridae-->Deinonychus
 Dromaeosauridae-->Velociraptor
+Dromaeosauridae-->Pyroraptor
 
 Proceratosauridae-->Proceratosaurus
 Proceratosauridae-->Yutyrannus
