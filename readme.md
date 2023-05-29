@@ -29,7 +29,12 @@ Theropoda-->Coelophysidae
 Coelophysidae-->Coelophysis
 
 Reptilia-->Ichthyosauria
+Reptilia-->Plesiosauria
+
 Ichthyosauria-->Ichthyosauridae 
 Ichthyosauridae-->Ichthyosaurus
+
+Plesiosauria-->Plesiosauridae 
+Plesiosauridae-->Plesiosaurus
 ```
 
