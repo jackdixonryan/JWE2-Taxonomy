@@ -6,6 +6,7 @@ graph TD;
 Chordata-->Synapsida
 Chordata-->Dinosauria
 Chordata-->Reptilia
+Chordata-->Pterosauria
 
 Synapsida-->Sphenacodontidae
 Synapsida-->Therapsida
@@ -39,5 +40,9 @@ Plesiosauria-->Pliosauridae
 
 Plesiosauridae-->Plesiosaurus
 Pliosauridae-->Attenborosaurus
+
+Pterosauria-->Macronychoptera
+Macronychoptera-->Dimorphodontidae 
+Dimorphodontidae-->Dimorphodon
 ```
 
