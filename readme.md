@@ -50,6 +50,7 @@ Thyreophora-->Ankylosauria
 Ornithopoda-->Dryosaurus
 Ornithopoda-->Iguanodontidae
 Ornithopoda-->Styracosterna
+Ornithopoda-->Muttaburrasaurus
 
 Styracosterna-->Hadrosauriformes
 Hadrosauriformes-->Ouranosaurus
@@ -59,8 +60,14 @@ Iguanodontidae-->Iguanodon
 Stegosauria-->stegosaurs
 
 Ankylosauria-->Nodosauridae
-Ankylosauria-->Minmi
+Ankylosauria-->Ankylosauridae
+
+Ankylosauridae-->Minmi
+Ankylosauridae-->Crichtonsaurus
+
 Nodosauridae-->Polacanthus
+Nodosauridae-->Sauropelta
+Nodosauridae-->Nodosaurus
 
 Theropoda-->plainTheropods
 Theropoda-->Compsognathidae
@@ -71,7 +78,8 @@ Theropoda-->Spinosauridae
 Theropoda-->Dromaeosauridae
 Theropoda-->Carcharodontosaurdae
 
-Carcharodontosaurdae-->Acrocanthosaurus
+Carcharodontosauridae-->Acrocanthosaurus
+Carcharodontosauridae-->Giganotosaurus
 
 Dromaeosauridae-->Deinonychus
 
@@ -123,8 +131,15 @@ Pterosauria-->Macronychoptera
 Pterosauria-->Dsungaripteridae
 Pterosauria-->Anurognathidae
 Pterosauria-->Anhangueridae
+Pterosauria-->Ornithocheirae
+Pterosauria-->Tapejaridae
 
 Anhangueridae-->Maaradactylus
+Anhangueridae-->Cearadactylus
+
+Tapejaridae-->Tapejara
+
+Ornithocheirae-->Tropeognathus
 
 Anurognathidae-->Jeholopterus
 
