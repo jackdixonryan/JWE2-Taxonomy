@@ -160,8 +160,8 @@ Sauropodomorpha-->Sauropoda
 Sauropoda-->Mamenchisaurus
 Sauropoda-->Diplodocidae
 Sauropoda-->Macronaria
-Sauropoda-->Amargasaurus
-Sauropoda-->Nigersaurus
+Sauropoda-->Dicraeosauridae-->Amargasaurus
+Sauropoda-->Rebbachisauridae -->Nigersaurus
 
 Diplodocidae-->Diplodocus
 Diplodocidae-->Apatosaurus
