@@ -20,6 +20,7 @@ Dinosauria-->Ornithischia
 
 Saurischia-->Herrerasauridae
 Saurischia-->Theropoda
+Saurischia-->Sauropodomorpha
 
 Ornithischia-->Thyreophora
 Thyreophora-->Stegosauria
@@ -36,6 +37,9 @@ Theropoda-->Metriacanthosauridae
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
+
+Sauropodomorpha-->Sauropoda
+Sauropoda-->Mamenchisaurus
 
 Tetanurae-->Monolophosaurus
 Herrerasauridae-->Herrerrasaurus
