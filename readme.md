@@ -16,7 +16,7 @@ What follows is a rough taxonomy that holds all the species present in JWE2.
 - Australovenator is not a Dromeosaur, like the other predatory raptors. 
 
 ```mermaid
-%%{init: {"flowchart": {"htmlLabels": false}} }%%
+%%{init: {"flowchart": {"htmlLabels": false}, "theme":"forest"} }%%
 flowchart LR;
 
 MorosIntrepidus["Moros Intrepidus"]
