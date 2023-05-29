@@ -3,6 +3,8 @@
 ```mermaid
 graph TD;
 
+trex["Tyrannosaurus Rex"]
+
 spinosaurs("`
 - Baryonyx
 - Suchomimus
@@ -60,6 +62,8 @@ Ceratopsidae-->Nasutoceratops
 Ceratopsidae-->Styracosaurus
 Ceratopsidae-->Sinoceratops
 Ceratopsidae-->Pachyrhinosaurus
+Ceratopsidae-->Torosaurus
+Ceratopsidae-->Triceratops
 
 Thyreophora-->Stegosauria
 Thyreophora-->Ankylosauria
@@ -88,6 +92,7 @@ Stegosauria-->stegosaurs
 Ankylosauria-->Nodosauridae
 Ankylosauria-->Ankylosauridae
 
+Ankylosauridae-->Ankylosaurus
 Ankylosauridae-->Minmi
 Ankylosauridae-->Crichtonsaurus
 Ankylosauridae-->Euoplocephalus
@@ -114,10 +119,13 @@ Theropoda-->Tyrannosauridae
 Theropoda-->Therizinosauridae
 
 Tyrannosauridae-->Albertosaurus
+Tyrannosauridae-->trex
+Tyrannosauridae-->Qianzhousaurus
 
 Therizinosauridae-->Therizinosaurus
 
 Abelisauridae-->Carnotaurus
+Abelisauridae-->Majungasaurus
 
 Deinocheiridae-->Deinocheirus
 
@@ -139,6 +147,7 @@ Carcharodontosauridae-->Carcharodontosaurus
 Dromaeosauridae-->Deinonychus
 Dromaeosauridae-->Velociraptor
 Dromaeosauridae-->Pyroraptor
+Dromaeosauridae-->Atrociraptor
 
 Proceratosauridae-->Proceratosaurus
 Proceratosauridae-->Yutyrannus
@@ -169,6 +178,9 @@ Macronaria-->Titanosauria
 Titanosauria-->Lithostrotia 
 
 Lithostrotia-->Dreadnoughtus
+Lithostrotia-->Saltasauridae
+
+Saltasauridae-->Alamosaurus
 
 Titanosauriformes-->Brachiosaurus
 
@@ -206,6 +218,12 @@ Pterosauria-->Anhangueridae
 Pterosauria-->Ornithocheirae
 Pterosauria-->Tapejaridae
 Pterosauria-->Pteranodontidae
+Pterosauria-->Azhdarchidae
+Pterosauria-->Nyctosauridae
+
+Nyctosauridae-->Barbaridactylus
+
+Azhdarchidae-->Quetzalcoatlus
 
 Pteranodontidae-->Pteranodon
 Pteranodontidae-->Geosternbergia
