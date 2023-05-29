@@ -22,6 +22,8 @@ Ornithischia-->Thyreophora
 Ornithischia-->Ornithopoda
 
 Thyreophora-->Stegosauria
+Thyreophora-->Ankylosauria
+
 Ornithopoda-->Dryosaurus
 
 Stegosauria-->Huayangosaurus
@@ -29,6 +31,10 @@ Stegosauria-->Gigantspinosaurus
 Stegosauria-->Chungkingosaurus
 Stegosauria-->Stegosaurus
 Stegosauria-->Kentrosaurus
+Stegosauria-->Wuerhosaurus
+
+Ankylosauria-->Nodosauridae
+Nodosauridae-->Polacanthus
 
 Theropoda-->Neotheropoda
 Theropoda-->Megalosaurus
@@ -38,6 +44,7 @@ Theropoda-->Proceratosaurus
 Theropoda-->Metriacanthosaurus
 Theropoda-->Allosaurus
 Theropoda-->Ceratosaurus
+Theropoda-->Compsognathus
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
@@ -73,8 +80,12 @@ Pliosauridae-->Thalassophonea
 Thalassophonea-->Liopleurodon
 
 Pterosauria-->Macronychoptera
+Pterosauria-->Dsungaripteridae
 Pterosauria-->Anurognathidae
+
 Anurognathidae-->Jeholopterus
+
+Dsungaripteridae-->Dsungaripterus
 
 Macronychoptera-->Dimorphodontidae 
 Dimorphodontidae-->Dimorphodon
