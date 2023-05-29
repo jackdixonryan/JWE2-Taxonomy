@@ -4,11 +4,29 @@
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR;
 
+MorosIntrepidus["Moros Intrepidus"]
 trex["Tyrannosaurus Rex"]
 
 Allosaurids["ALLOSAURIDS
 * Allosaurus
  "]
+ 
+ Metriacanthosaurids["METRIACANTHOSAURIDS
+ * Metriacanthosaurus
+ "]
+ 
+ Ceratosaurids["CERATOSAURIDS
+ * Ceratosaurus
+ "]
+ 
+ Megalosaurids["MEGALOSAURIDS
+ * Megalosaurus
+ "]
+ 
+ Coelophysids["CEOLOPHYSIDS
+ * Coelophysis
+ "]
+
 
 spinosaurs("`
 - Baryonyx
@@ -23,14 +41,6 @@ stegosaurs("`
 - Stegosaurus 
 - Kentrosaurus
 - Wuerhosaurus
-`")
-
-plainTheropods("`
-  - Metriacanthosaurus
-  - Ceratosaurus
-  - Megalosaurus
-  - Coelophysis
-  - Moros Intrepidus
 `")
 
 Chordata-->Synapsida
@@ -105,8 +115,12 @@ Nodosauridae-->Polacanthus
 Nodosauridae-->Sauropelta
 Nodosauridae-->Nodosaurus
 
-Theropoda-->plainTheropods
-Theropoda-->Allosaurids
+Theropoda-->Megalosauridae-->Megalosaurus
+Theropoda-->Coelophysidae-->Coelophysis
+Theropoda-->Metriacanthosauridae-->Metriacanthosaurus
+Theropoda-->Ceratosauridae-->Ceratosaurus
+Theropoda-->Allosauridae-->Allosaurus
+Theropoda-->MorosIntrepidus
 Theropoda-->Compsognathidae
 Theropoda-->Proceratosauridae
 Theropoda-->Neotheropoda
@@ -160,7 +174,9 @@ Proceratosauridae-->Yutyrannus
 Compsognathidae-->Compsognathus
 Compsognathidae-->Sinosauropteryx
 
-Spinosauridae-->spinosaurs
+Spinosauridae-->Spinosaurus
+Spinosauridae-->Baryonxyx
+Spinosauridae-->Suchomimus
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
