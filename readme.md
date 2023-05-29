@@ -14,7 +14,7 @@ Synapsida-->Lystrosaurus
 Dinosauria-->Saurischia
 Dinosauria-->Ornithischia
 
-Saurischia-->Herrerasauridae
+Saurischia-->Herrerrasaurus
 Saurischia-->Theropoda
 Saurischia-->Sauropodomorpha
 
@@ -26,11 +26,11 @@ Stegosauria-->Gigantspinosaurus
 Stegosauria-->Chungkingosaurus
 
 Theropoda-->Neotheropoda
-Theropoda-->Megalosauridae
-Theropoda-->Coelophysidae
+Theropoda-->Megalosaurus
+Theropoda-->Coelophysis
 Theropoda-->Tetanurae
-Theropoda-->Proceratosauridae
-Theropoda-->Metriacanthosauridae
+Theropoda-->Proceratosaurus
+Theropoda-->Metriacanthosaurus
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
@@ -39,12 +39,6 @@ Sauropodomorpha-->Sauropoda
 Sauropoda-->Mamenchisaurus
 
 Tetanurae-->Monolophosaurus
-Herrerasauridae-->Herrerrasaurus
-Megalosauridae-->Megalosaurus
-Coelophysidae-->Coelophysis
-Metriacanthosauridae-->Metriacanthosaurus
-
-Proceratosauridae-->Proceratosaurus
 
 Reptilia-->Ichthyosauria
 Reptilia-->Plesiosauria
