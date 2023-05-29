@@ -14,5 +14,10 @@ Therapsida-->Anomodontia
 Anomodontia-->Dicynodontia
 Dicynodontia-->Lystrosauridae
 Lystrosauridae-->Lystrosaurus
+
+Chordata-->Dinosauria
+Dinosauria-->Saurischia
+Saurischia-->Herrerasauridae
+Herrerasauridae-->Herrerrasaurus
 ```
 
