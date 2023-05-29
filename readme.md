@@ -4,6 +4,10 @@
 graph TD;
 
 Animalia-->Chordata
-Chordata-->Reptilia
+Chordata-->Synapsida
+Synapsida-->Sphenacodontidae
+Sphenacodontidae-->Sphenacodontinae
+Sphenacodontinae-->Dimetrodon
+
 ```
 
