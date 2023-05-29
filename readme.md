@@ -44,6 +44,10 @@ Saurischia-->Sauropodomorpha
 
 Ornithischia-->Thyreophora
 Ornithischia-->Ornithopoda
+Ornithischia-->Ceratopsia
+
+Ceratopsia-->Ceratopsidae
+Ceratopsidae-->Chasmosaurus
 
 Thyreophora-->Stegosauria
 Thyreophora-->Ankylosauria
@@ -52,8 +56,14 @@ Ornithopoda-->Dryosaurus
 Ornithopoda-->Iguanodontidae
 Ornithopoda-->Styracosterna
 Ornithopoda-->Muttaburrasaurus
+Ornithopoda-->Hadrosauridae
+
+Hadrosauridae-->Tsintaosaurus
+Hadrosauridae-->Corythosaurus
+Hadrosauridae-->Parasaurolophus
 
 Styracosterna-->Hadrosauriformes
+
 Hadrosauriformes-->Ouranosaurus
 
 Iguanodontidae-->Iguanodon
@@ -80,11 +90,15 @@ Theropoda-->Dromaeosauridae
 Theropoda-->Carcharodontosaurdae
 Theropoda-->Ornithomimidae
 Theropoda-->Megaraptora
+Theropoda-->Troodontidae
+
+Troodontidae-->Troodon
 
 Megaraptora-->Megaraptoridae
 Megaraptoridae-->Australovenator
 
 Ornithomimidae-->Archaeornithomimus
+Ornithomimidae-->Struthiomimus
 
 Carcharodontosauridae-->Acrocanthosaurus
 Carcharodontosauridae-->Giganotosaurus
@@ -123,18 +137,28 @@ Tetanurae-->Monolophosaurus
 
 Reptilia-->Ichthyosauria
 Reptilia-->Plesiosauria
+Reptilia-->Squamata
+
+Squamata-->Mosasauridae
+
+Mosasauridae-->Tylosaurus
+Mosasauridae-->Mosasaurus
 
 Ichthyosauria-->Ichthyosauridae 
 Ichthyosauridae-->Ichthyosaurus
 
 Plesiosauria-->Plesiosauridae 
 Plesiosauria-->Pliosauridae
+Plesiosauria-->Elasmosauridae
 
 Plesiosauridae-->Plesiosaurus
+
+Elasmosauridae-->Styxosaurus
+Elasmosauridae-->Elasmosaurus
+
 Pliosauridae-->Attenborosaurus
-Pliosauridae-->Thalassophonea
+Pliosauridae-->Liopleurodon
 Pliosauridae-->Kronosaurus
-Thalassophonea-->Liopleurodon
 
 Pterosauria-->Macronychoptera
 Pterosauria-->Dsungaripteridae
@@ -142,6 +166,10 @@ Pterosauria-->Anurognathidae
 Pterosauria-->Anhangueridae
 Pterosauria-->Ornithocheirae
 Pterosauria-->Tapejaridae
+Pterosauria-->Pteranodontidae
+
+Pteranodontidae-->Pteranodon
+Pteranodontidae-->Geosternbergia
 
 Anhangueridae-->Maaradactylus
 Anhangueridae-->Cearadactylus
