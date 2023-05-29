@@ -27,13 +27,18 @@ Saurischia-->Theropoda
 Theropoda-->Neotheropoda
 Theropoda-->Megalosauridae
 Theropoda-->Coelophysidae
+Theropoda-->Tetanurae
+Theropoda-->Proceratosauridae
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
 
+Tetanurae-->Monolophosaurus
 Herrerasauridae-->Herrerrasaurus
 Megalosauridae-->Megalosaurus
 Coelophysidae-->Coelophysis
+
+Proceratosauridae-->Proceratosaurus
 
 Reptilia-->Ichthyosauria
 Reptilia-->Plesiosauria
