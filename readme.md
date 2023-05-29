@@ -68,6 +68,12 @@ Theropoda-->Proceratosauridae
 Theropoda-->Neotheropoda
 Theropoda-->Tetanurae
 Theropoda-->Spinosauridae
+Theropoda-->Dromaeosauridae
+Theropoda-->Carcharodontosaurdae
+
+Carcharodontosaurdae-->Acrocanthosaurus
+
+Dromaeosauridae-->Deinonychus
 
 Proceratosauridae-->Proceratosaurus
 Proceratosauridae-->Yutyrannus
@@ -86,6 +92,7 @@ Sauropoda-->Mamenchisaurus
 Sauropoda-->Diplodocidae
 Sauropoda-->Macronaria
 Sauropoda-->Amargasaurus
+Sauropoda-->Nigersaurus
 
 Diplodocidae-->Diplodocus
 Diplodocidae-->Apatosaurus
@@ -109,6 +116,7 @@ Plesiosauria-->Pliosauridae
 Plesiosauridae-->Plesiosaurus
 Pliosauridae-->Attenborosaurus
 Pliosauridae-->Thalassophonea
+Pliosauridae-->Kronosaurus
 Thalassophonea-->Liopleurodon
 
 Pterosauria-->Macronychoptera
