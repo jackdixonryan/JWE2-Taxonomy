@@ -3,6 +3,16 @@
 ```mermaid
 graph TD;
 
+
+stegosaurs("`
+- Huayangosaurus 
+- Gigantspinosaurus
+- Chungkingosaurus
+- Stegosaurus 
+- Kentrosaurus
+- Wuerhosaurus
+`")
+
 Chordata-->Synapsida
 Chordata-->Dinosauria
 Chordata-->Reptilia
@@ -25,13 +35,10 @@ Thyreophora-->Stegosauria
 Thyreophora-->Ankylosauria
 
 Ornithopoda-->Dryosaurus
+Ornithopoda-->Iguanodontidae
+Iguanodontidae-->Iguanodon
 
-Stegosauria-->Huayangosaurus
-Stegosauria-->Gigantspinosaurus
-Stegosauria-->Chungkingosaurus
-Stegosauria-->Stegosaurus
-Stegosauria-->Kentrosaurus
-Stegosauria-->Wuerhosaurus
+Stegosauria-->stegosaurs
 
 Ankylosauria-->Nodosauridae
 Nodosauridae-->Polacanthus
@@ -45,6 +52,9 @@ Theropoda-->Metriacanthosaurus
 Theropoda-->Allosaurus
 Theropoda-->Ceratosaurus
 Theropoda-->Compsognathus
+Theropoda-->Spinosauridae
+
+Spinosauridae-->Baryonyx
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
@@ -54,6 +64,7 @@ Sauropodomorpha-->Sauropoda
 Sauropoda-->Mamenchisaurus
 Sauropoda-->Diplodocidae
 Sauropoda-->Macronaria
+Sauropoda-->Amargasaurus
 
 Diplodocidae-->Diplodocus
 Diplodocidae-->Apatosaurus
