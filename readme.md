@@ -24,6 +24,9 @@ Dinosauria-->Saurischia
 Saurischia-->Herrerasauridae
 Saurischia-->Theropoda
 
+Theropoda-->Neotheropoda
+Neotheropoda-->Dilophosaurus
+
 Herrerasauridae-->Herrerrasaurus
 
 Theropoda-->Coelophysidae
