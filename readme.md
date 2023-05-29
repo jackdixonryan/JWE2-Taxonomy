@@ -49,11 +49,17 @@ Thyreophora-->Ankylosauria
 
 Ornithopoda-->Dryosaurus
 Ornithopoda-->Iguanodontidae
+Ornithopoda-->Styracosterna
+
+Styracosterna-->Hadrosauriformes
+Hadrosauriformes-->Ouranosaurus
+
 Iguanodontidae-->Iguanodon
 
 Stegosauria-->stegosaurs
 
 Ankylosauria-->Nodosauridae
+Ankylosauria-->Minmi
 Nodosauridae-->Polacanthus
 
 Theropoda-->plainTheropods
@@ -108,6 +114,9 @@ Thalassophonea-->Liopleurodon
 Pterosauria-->Macronychoptera
 Pterosauria-->Dsungaripteridae
 Pterosauria-->Anurognathidae
+Pterosauria-->Anhangueridae
+
+Anhangueridae-->Maaradactylus
 
 Anurognathidae-->Jeholopterus
 
