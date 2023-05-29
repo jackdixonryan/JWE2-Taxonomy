@@ -51,7 +51,7 @@ Ceratopsia-->Ceratopsidae
 Ceratopsidae-->Chasmosaurus
 Ceratopsidae-->Pentaceratops
 Ceratopsidae-->Nasutoceratops
-Ceratopsidae--Styracosaurus
+Ceratopsidae-->Styracosaurus
 Ceratopsidae-->Sinoceratops
 Ceratopsidae-->Pachyrhinosaurus
 
