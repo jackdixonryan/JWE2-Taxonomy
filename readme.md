@@ -23,13 +23,16 @@ Saurischia-->Theropoda
 
 Ornithischia-->Thyreophora
 Thyreophora-->Stegosauria
+
 Stegosauria-->Huayangosaurus
+Stegorsauria-->Gigantspinosaurus
 
 Theropoda-->Neotheropoda
 Theropoda-->Megalosauridae
 Theropoda-->Coelophysidae
 Theropoda-->Tetanurae
 Theropoda-->Proceratosauridae
+Theropoda-->Metriacanthosauridae
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
@@ -38,6 +41,7 @@ Tetanurae-->Monolophosaurus
 Herrerasauridae-->Herrerrasaurus
 Megalosauridae-->Megalosaurus
 Coelophysidae-->Coelophysis
+Metriacanthosauridae-->Metriacanthosaurus
 
 Proceratosauridae-->Proceratosaurus
 
