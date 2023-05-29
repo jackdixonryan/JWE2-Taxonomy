@@ -28,6 +28,7 @@ Stegosauria-->Huayangosaurus
 Stegosauria-->Gigantspinosaurus
 Stegosauria-->Chungkingosaurus
 Stegosauria-->Stegosaurus
+Stegosauria-->Kentrosaurus
 
 Theropoda-->Neotheropoda
 Theropoda-->Megalosaurus
@@ -36,6 +37,7 @@ Theropoda-->Tetanurae
 Theropoda-->Proceratosaurus
 Theropoda-->Metriacanthosaurus
 Theropoda-->Allosaurus
+Theropoda-->Ceratosaurus
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
@@ -43,8 +45,11 @@ Neotheropoda-->Cryolophosaurus
 Sauropodomorpha-->Sauropoda
 
 Sauropoda-->Mamenchisaurus
-Sauropoda-->Diplodocus
+Sauropoda-->Diplodocidae
 Sauropoda-->Macronaria
+
+Diplodocidae-->Diplodocus
+Diplodocidae-->Apatosaurus
 
 Macronaria-->Camarasaurus
 Macronaria-->Titanosauriformes
