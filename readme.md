@@ -1,27 +1,32 @@
 # Cladistics
 What follows is a rough taxonomy that holds all the species present in JWE2. 
 ## Considerations
-### Cladistic Intricacies
+### Possible Cladistic Inaccuracies
 (May be incomplete)
 - Muttaburrasaurus is not a Hadrosaur, though it looks to be one. It may be a species of Iguanodon, Dryosaur, Hypsolophodon, or Rhabdodon. Recent evidence suggests Rhabdodon, but I have simply left it ambiguous. 
 - There are problems in general with my classification of the Ornithopods. "Iguanodontia" may be a wastebasket taxon. 
 - I have tremendously shortened the taxonomy for Lystrosaurus and Dimorphodon as they are anomalous creatures in JWE2. 
 - Herrerrasaurus: What is it? In the game, it appears to be a raptor - either a Dromeosaur or a Megaraptor. But it's significantly older than the Dromeosaurs. Some scientists have even classified it as closely related to the Plateosaurus. I have, again, left it ambiguous.
+- Pterosaurs, Marine Reptiles, and Dinosaurs were all Reptiles. I tried to put them all under a single banner to distinguish them from the Therapsids, but this made the formatting of the chart very ungainly. I have therefore kept them as separate members of "Chordates", though this doesn't fully represent their classification.
+- Something is happening with Sauropod classification. I wish I could describe the issue, but I cannot. 
 
 # Coolest Stuff in Here
 - You might assume Liopleurodon is a type of Mosasaur - amazingly, it is more closely related to the long-necked Plesiosaurs than the lizard-like mosasaurs. 
 - Ornithomimids are not Ornithopods, but Theropods.
+- Australovenator is not a Dromeosaur, like the other predatory raptors. 
+
 ```mermaid
 %%{init: {"flowchart": {"htmlLabels": false}} }%%
 flowchart LR;
 
 MorosIntrepidus["Moros Intrepidus"]
 trex["Tyrannosaurus Rex"]
+OtherReptiles["Marine Reptiles"]
 
 
 Chordata-->Synapsida
 Chordata-->Dinosauria
-Chordata-->Reptilia
+Chordata-->OtherReptiles
 Chordata-->Pterosauria
 
 Synapsida-->Dimetrodon
@@ -188,9 +193,9 @@ Lithostrotia-->Saltasauridae-->Alamosaurus
 
 Tetanurae-->Monolophosaurus
 
-Reptilia-->Ichthyosauria
-Reptilia-->Plesiosauria
-Reptilia-->Squamata
+OtherReptiles-->Ichthyosauria
+OtherReptiles-->Plesiosauria
+OtherReptiles-->Squamata
 
 Squamata-->Mosasauridae
 
