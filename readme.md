@@ -13,6 +13,16 @@ stegosaurs("`
 - Wuerhosaurus
 `")
 
+plainTheropods("`
+  - Proceratosaurus
+  - Metriacanthosaurus
+  - Allosaurus
+  - Ceratosaurus
+  - Compsognathus
+  - Megalosaurus
+  - Coelophysis
+`")
+
 Chordata-->Synapsida
 Chordata-->Dinosauria
 Chordata-->Reptilia
@@ -43,15 +53,9 @@ Stegosauria-->stegosaurs
 Ankylosauria-->Nodosauridae
 Nodosauridae-->Polacanthus
 
+Theropoda-->plainTheropods
 Theropoda-->Neotheropoda
-Theropoda-->Megalosaurus
-Theropoda-->Coelophysis
 Theropoda-->Tetanurae
-Theropoda-->Proceratosaurus
-Theropoda-->Metriacanthosaurus
-Theropoda-->Allosaurus
-Theropoda-->Ceratosaurus
-Theropoda-->Compsognathus
 Theropoda-->Spinosauridae
 
 Spinosauridae-->Baryonyx
