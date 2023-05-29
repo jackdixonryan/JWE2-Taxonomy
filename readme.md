@@ -166,18 +166,14 @@ Sauropoda-->Nigersaurus
 Diplodocidae-->Diplodocus
 Diplodocidae-->Apatosaurus
 
-Macronaria-->Camarasaurus
-Macronaria-->Titanosauriformes
+Macronaria-->Camarasauridae-->Camarasaurus
 Macronaria-->Titanosauria
 
+Titanosauria-->Brachiosauridae-->Brachiosaurus
 Titanosauria-->Lithostrotia 
 
 Lithostrotia-->Dreadnoughtus
-Lithostrotia-->Saltasauridae
-
-Saltasauridae-->Alamosaurus
-
-Titanosauriformes-->Brachiosaurus
+Lithostrotia-->Saltasauridae-->Alamosaurus
 
 Tetanurae-->Monolophosaurus
 
