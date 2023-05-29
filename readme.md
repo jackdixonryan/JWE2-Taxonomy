@@ -19,7 +19,10 @@ Saurischia-->Theropoda
 Saurischia-->Sauropodomorpha
 
 Ornithischia-->Thyreophora
+Ornithischia-->Ornithopoda
+
 Thyreophora-->Stegosauria
+Ornithopoda-->Dryosaurus
 
 Stegosauria-->Huayangosaurus
 Stegosauria-->Gigantspinosaurus
