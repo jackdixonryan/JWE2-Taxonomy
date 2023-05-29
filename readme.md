@@ -25,7 +25,9 @@ Saurischia-->Herrerasauridae
 Saurischia-->Theropoda
 
 Theropoda-->Neotheropoda
+
 Neotheropoda-->Dilophosaurus
+Neotheropoda-->Cryolophosaurus
 
 Herrerasauridae-->Herrerrasaurus
 
