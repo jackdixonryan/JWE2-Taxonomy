@@ -3,6 +3,11 @@
 ```mermaid
 graph TD;
 
+spinosaurs("`
+- Baryonyx
+- Suchomimus
+- Spinosaurus
+`")
 
 stegosaurs("`
 - Huayangosaurus 
@@ -14,11 +19,9 @@ stegosaurs("`
 `")
 
 plainTheropods("`
-  - Proceratosaurus
   - Metriacanthosaurus
   - Allosaurus
   - Ceratosaurus
-  - Compsognathus
   - Megalosaurus
   - Coelophysis
 `")
@@ -54,11 +57,19 @@ Ankylosauria-->Nodosauridae
 Nodosauridae-->Polacanthus
 
 Theropoda-->plainTheropods
+Theropoda-->Compsognathidae
+Theropoda-->Proceratosauridae
 Theropoda-->Neotheropoda
 Theropoda-->Tetanurae
 Theropoda-->Spinosauridae
 
-Spinosauridae-->Baryonyx
+Proceratosauridae-->Proceratosaurus
+Proceratosauridae-->Yutyrannus
+
+Compsognathidae-->Compsognathus
+Compsognathidae-->Sinosauropteryx
+
+Spinosauridae-->spinosaurs
 
 Neotheropoda-->Dilophosaurus
 Neotheropoda-->Cryolophosaurus
