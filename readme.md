@@ -11,13 +11,9 @@ Chordata-->Pterosauria
 Synapsida-->Sphenacodontidae
 Synapsida-->Therapsida
 
-Sphenacodontidae-->Sphenacodontinae
-Sphenacodontinae-->Dimetrodon
+Sphenacodontidae-->Dimetrodon
 
-Therapsida-->Anomodontia
-Anomodontia-->Dicynodontia
-Dicynodontia-->Lystrosauridae
-Lystrosauridae-->Lystrosaurus
+Therapsida-->Lystrosaurus
 
 Dinosauria-->Saurischia
 
