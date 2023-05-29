@@ -8,12 +8,8 @@ Chordata-->Dinosauria
 Chordata-->Reptilia
 Chordata-->Pterosauria
 
-Synapsida-->Sphenacodontidae
-Synapsida-->Therapsida
-
-Sphenacodontidae-->Dimetrodon
-
-Therapsida-->Lystrosaurus
+Synapsida-->Dimetrodon
+Synapsida-->Lystrosaurus
 
 Dinosauria-->Saurischia
 Dinosauria-->Ornithischia
