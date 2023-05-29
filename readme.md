@@ -1,9 +1,14 @@
 # Cladistics
 
 ```mermaid
-graph LR;
+%%{init: {"flowchart": {"htmlLabels": false}} }%%
+flowchart LR;
 
 trex["Tyrannosaurus Rex"]
+
+Allosaurids["ALLOSAURIDS
+* Allosaurus
+ "]
 
 spinosaurs("`
 - Baryonyx
@@ -22,7 +27,6 @@ stegosaurs("`
 
 plainTheropods("`
   - Metriacanthosaurus
-  - Allosaurus
   - Ceratosaurus
   - Megalosaurus
   - Coelophysis
@@ -102,6 +106,7 @@ Nodosauridae-->Sauropelta
 Nodosauridae-->Nodosaurus
 
 Theropoda-->plainTheropods
+Theropoda-->Allosaurids
 Theropoda-->Compsognathidae
 Theropoda-->Proceratosauridae
 Theropoda-->Neotheropoda
