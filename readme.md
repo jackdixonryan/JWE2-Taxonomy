@@ -27,6 +27,7 @@ Ornithopoda-->Dryosaurus
 Stegosauria-->Huayangosaurus
 Stegosauria-->Gigantspinosaurus
 Stegosauria-->Chungkingosaurus
+Stegosauria-->Stegosaurus
 
 Theropoda-->Neotheropoda
 Theropoda-->Megalosaurus
@@ -42,9 +43,13 @@ Neotheropoda-->Cryolophosaurus
 Sauropodomorpha-->Sauropoda
 
 Sauropoda-->Mamenchisaurus
+Sauropoda-->Diplodocus
 Sauropoda-->Macronaria
 
 Macronaria-->Camarasaurus
+Macronaria-->Titanosauriformes
+
+Titanosauriformes-->Brachiosaurus
 
 Tetanurae-->Monolophosaurus
 
