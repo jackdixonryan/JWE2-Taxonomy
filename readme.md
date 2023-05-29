@@ -16,9 +16,14 @@ Sphenacodontidae-->Dimetrodon
 Therapsida-->Lystrosaurus
 
 Dinosauria-->Saurischia
+Dinosauria-->Ornithischia
 
 Saurischia-->Herrerasauridae
 Saurischia-->Theropoda
+
+Ornithischia-->Thyreophora
+Thyreophora-->Stegosauria
+Stegosauria-->Huayangosaurus
 
 Theropoda-->Neotheropoda
 Theropoda-->Megalosauridae
