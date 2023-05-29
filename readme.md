@@ -1,7 +1,7 @@
 # Cladistics
 
 ```mermaid
-graph TD;
+graph LR;
 
 trex["Tyrannosaurus Rex"]
 
