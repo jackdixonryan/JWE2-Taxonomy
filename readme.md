@@ -26,7 +26,8 @@ Ornithischia-->Thyreophora
 Thyreophora-->Stegosauria
 
 Stegosauria-->Huayangosaurus
-Stegorsauria-->Gigantspinosaurus
+Stegosauria-->Gigantspinosaurus
+Stegosauria-->Chungkingosaurus
 
 Theropoda-->Neotheropoda
 Theropoda-->Megalosauridae
