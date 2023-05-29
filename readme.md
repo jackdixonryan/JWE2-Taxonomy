@@ -3,21 +3,28 @@
 ```mermaid
 graph TD;
 
-Animalia-->Chordata
 Chordata-->Synapsida
+Chordata-->Dinosauria
+
 Synapsida-->Sphenacodontidae
+Synapsida-->Therapsida
+
 Sphenacodontidae-->Sphenacodontinae
 Sphenacodontinae-->Dimetrodon
 
-Synapsida-->Therapsida
 Therapsida-->Anomodontia
 Anomodontia-->Dicynodontia
 Dicynodontia-->Lystrosauridae
 Lystrosauridae-->Lystrosaurus
 
-Chordata-->Dinosauria
 Dinosauria-->Saurischia
+
 Saurischia-->Herrerasauridae
+Saurischia-->Theropoda
+
 Herrerasauridae-->Herrerrasaurus
+
+Theropoda-->Coelophysidae
+Coelophysidae-->Coelophysis
 ```
 
