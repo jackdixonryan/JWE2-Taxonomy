@@ -28,6 +28,7 @@ Chordata-->Synapsida
 Chordata-->Dinosauria
 Chordata-->OtherReptiles
 Chordata-->Pterosauria
+Chordata-->Mammalia-->Artiodactyla-->Bovidae-->Goat
 
 Synapsida-->Dimetrodon
 Synapsida-->Lystrosaurus
